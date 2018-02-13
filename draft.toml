@@ -1,0 +1,7 @@
+[environments]
+  [environments.development]
+    name = "import-239502056"
+    namespace = "default"
+    wait = false
+    watch = false
+    watch_delay = 2
